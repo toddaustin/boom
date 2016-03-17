@@ -81,6 +81,8 @@ The `Boom` object also supports the following method:
 
 **Tell me what you like/dislike about each statement. Also what I can push forward to the next/final step. **
 
+**Jacob: I don't know if I necessarily like either title, but I would go for what is asked for in the project guidelines. You seemto say what boom is used for, but not really when/why you would use it. I would say something to the effect of node not having friendly error messages and that boom supplies them for hapi.js to utilize, or something to that affect. Seems to me there needs to be a bit more than just 2 sentences. I might even combine the first and second option verbage into one coherent paragraph. Hope this helps**
+
 ## Helper Methods
  
 ### `wrap(error, [statusCode], [message])`
